@@ -1,0 +1,1 @@
+g++ -o sdl1.out sdl1.cpp -I/usr/include/SDL -lSDL
